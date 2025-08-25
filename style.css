@@ -1,0 +1,36 @@
+.cardbusiness{
+   
+       display: flex;
+       justify-content: space-around;
+       padding: 20px;
+       width: 600px;
+       margin-inline: auto;
+       background-color: #141414;
+       border-bottom: 5px solid #898989;
+         border-radius: 10px;
+     
+}
+
+
+.tjcard{
+width: 200px;
+
+}
+.data{
+ text-align: center;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+ color: #898989;
+
+}
+
+.data p{
+font-size: 25px;
+}
+.data h3{
+font-size: 25px;
+}
+
+body {
+      background-color: #0b1a2a;
+}
